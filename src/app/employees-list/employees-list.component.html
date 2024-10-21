@@ -1,0 +1,9 @@
+<div class="employee-list">
+    <h2>لیست کارمندان</h2>
+    <ul>
+      <li *ngFor="let employee of employees">
+        {{ employee.name }} - واحد: {{ employee.departmentId }}
+      </li>
+    </ul>
+  </div>
+  

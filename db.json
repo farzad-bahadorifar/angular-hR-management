@@ -1,19 +1,10 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Ali",
-        "gender": "male",
-        "education": "bachelor",
-        "phone": "09123456789"
-      },
-      {
-        "id": 2,
-        "name": "Sara",
-        "gender": "female",
-        "education": "doctorate",
-        "phone": "09198765432"
-      }
-    ]
-  }
-  
+  "departments": [
+    { "id": 1, "name": "HR" },
+    { "id": 2, "name": "Finance" }
+  ],
+  "employees": [
+    { "id": 1, "name": "Alice", "departmentId": 1 },
+    { "id": 2, "name": "Bob", "departmentId": 2 }
+  ]
+}
