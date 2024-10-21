@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ali",
+        "gender": "male",
+        "education": "bachelor",
+        "phone": "09123456789"
+      },
+      {
+        "id": 2,
+        "name": "Sara",
+        "gender": "female",
+        "education": "doctorate",
+        "phone": "09198765432"
+      }
+    ]
+  }
+  
